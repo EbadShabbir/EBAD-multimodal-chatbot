@@ -1,6 +1,6 @@
-Here's your updated README.md with the Docker containerization information added in proper markdown format:
 
-```markdown
+
+
 # EBAD API - Electronic Brain and Assistant Droid 🤖
 
 A sophisticated multimodal AI chatbot API inspired by Iron Man's JARVIS, built with FastAPI and powered by Google's hybrid AI approach: Gemma 3n E4B-it for efficient text processing and Gemini 2.0 Flash for superior image analysis. EBAD API provides secure, scalable endpoints for voice input, image analysis, and natural language processing.
