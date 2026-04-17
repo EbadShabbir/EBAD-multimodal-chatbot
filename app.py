@@ -12,7 +12,7 @@ import time
 load_dotenv()
 
 # Configure Google AI
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key="AQ.Ab8RN6Ksvk2-f3WjArw7gp6y8VdqKLbi5x2WRBvHT16IQl0YPw")
 
 @st.cache_resource
 def load_models():
