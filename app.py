@@ -19,7 +19,7 @@ def load_models():
     # Text model: Gemma 3n E4B-it for efficient text processing
     text_model = genai.GenerativeModel("gemma-3n-e4b-it")
     # Vision model: Gemini 2.0 Flash for superior image analysis
-    vision_model = genai.GenerativeModel("gemini-2.0-flash-exp")
+    vision_model = genai.GenerativeModel("gemini-3.1-flash-tts-preview")
     return text_model, vision_model
 
 def handle_voice_input():
